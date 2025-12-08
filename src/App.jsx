@@ -1,10 +1,11 @@
 import './App.css'
+import ImageGenerator from './components/ImageGenerator/ImageGenerator.jsx'
 
 function App() {
 
   return (
     <>
-      <title>AI Image Generator</title>
+      <ImageGenerator />
     </>
   )
 }
